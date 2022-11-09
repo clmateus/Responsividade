@@ -2,6 +2,9 @@
 
 Uma página completamente responsiva para diversos tamanhos de tela.
 
+<img src="./Mobile.png" />
+<img src="./Desktop.png" />
+
 Esse projeto foi feito utiilzando a regra "mobile-first", que consiste em desenvolver o layout primeiramente para telas menores e depois fazer os ajustes e adaptações para que funcione em telas maiores.
 
 # Tecnologias Usadas
