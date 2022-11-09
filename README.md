@@ -7,7 +7,7 @@ Uma página completamente responsiva para diversos tamanhos de tela.
 
 Esse projeto foi feito utiilzando a regra "mobile-first", que consiste em desenvolver o layout primeiramente para telas menores e depois fazer os ajustes e adaptações para que funcione em telas maiores.
 
-Você pode acessar esse projeto clicando <a href="clmateus.github.io/Responsividade">aqui</a>.
+Você pode acessar esse projeto clicando <a href="https://clmateus.github.io/Responsividade">aqui</a>.
 # Tecnologias Usadas
 
 <ul>
