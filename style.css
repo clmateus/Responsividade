@@ -105,4 +105,8 @@ li span {
     max-width: 450px;
     align-items: center;
   }
+
+  body > main > ul > li:nth-child(1) {
+    gap: 6.6rem;
+  }
 }
